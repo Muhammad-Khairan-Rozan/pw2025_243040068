@@ -16,4 +16,8 @@ function hitungKelilingLingkaran($r) {
 
     hitungLuasLingkaran(10);
     hitungKelilingLingkaran(30);
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 88a0052899cc9e9146a11c5c451d346e5dc5fc12
